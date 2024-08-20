@@ -1,0 +1,17 @@
+.condiv{
+    display: flex;
+    gap: 20px;
+
+}
+.condiv .conleft{
+    height: 930px;
+    width: 2000px;
+    background-color: white;
+    margin-left: 20px;
+}
+.condiv .contright{
+    height: 930px;
+    width: 100%;
+    background-color: white;
+    margin-left: 20px;
+}
