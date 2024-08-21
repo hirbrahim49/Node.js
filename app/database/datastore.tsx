@@ -33,6 +33,7 @@ export type Student = {
   Name: string;
   Faculty: string;
   Department: string;
+  email:string;
   Image: any; // Update this to accept StaticImageData
   Qoutes:string;
   video: string;
@@ -47,6 +48,7 @@ const studentDataBase: Student[] = [
             Name: "Odeyemi Ibrahim",
             Faculty: "Technology",
             Department: "Civil Engineering",
+            email:"odeyemiibrahim49@gmail.com",
             Image: ibrahim,
             Qoutes:"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. ",
             video: "",
@@ -111,6 +113,7 @@ const studentDataBase: Student[] = [
                 Name:  "Tiamiyu aishat",
                 Faculty:"Yoruba",
                 Department:"Fine Art",
+                email:'tiamiyuaishat499@gmail.com',
                 Image: aishat,
                 Qoutes:"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma. apply mathematical reasoning to real-world situations",
                 video:"",
@@ -167,6 +170,7 @@ const studentDataBase: Student[] = [
                 Name:  "Rokibat Olaitan",
                 Faculty:"Commercial",
                 Department:"Accounting",
+                email:"rokibatodeyemi@gmail.com",
                 Image: rokibat,
                 Qoutes:"Keep your thoughts positive because your thoughts become your words. Keep your words positive because your words become your behavior.",
                 video:"",
@@ -224,6 +228,7 @@ const studentDataBase: Student[] = [
                 Name:  "Suliyat Olabisi",
                 Faculty:"science",
                 Department:"Zoology",
+                email:"suliyatolabisi133@gmail.com",
                 Image: suliyat,
 
                 Qoutes:"Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure  apply mathematical reasoning .",
@@ -281,6 +286,7 @@ const studentDataBase: Student[] = [
                 Name:  "Alabi Yusuf",
                 Faculty:"Mediciene",
                 Department:"Phamarcy",
+                email:"alabisefiu2000@gmail.com",
                 Image: alabi,
                 Qoutes:" to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty,endure the betrayal of false friends;",
                 video:"",

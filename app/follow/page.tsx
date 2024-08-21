@@ -14,7 +14,7 @@ const page = () => {
       <div className='flex flex-col h-[250px] w-[200px] bg-[#f5f5dc] rounded-[20px] gap-[15px] justify-center items-center'>
         <p className='text-[40px] py-[25px] px-[25px] bg-stone-300 rounded-[50%]'><IoLogoWhatsapp /></p>
         <p> whatsapp</p>
-        <a className='py-[20px] px-[30px] bg-[gray] rounded-[15px]' href="Wa.me/+2349044174371">click here</a>
+        <a className='py-[20px] px-[30px] bg-[gray] rounded-[15px]' href="https://Wa.me/+2349044174371">click here</a>
       </div>
       <div className='flex flex-col h-[250px] w-[200px] bg-[#f5f5dc] rounded-[20px] gap-[15px] justify-center items-center'>
         <p className='text-[40px] py-[25px] px-[25px] bg-stone-300 rounded-[50%]' ><MdOutlinePhoneIphone /></p>
